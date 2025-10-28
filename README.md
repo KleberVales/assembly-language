@@ -6,3 +6,5 @@ Assembly (ou linguagem de montagem) é uma linguagem de baixo nível usada para 
 Cada instrução em Assembly corresponde quase diretamente a uma instrução do processador (CPU).
 
 ## ⚙️ Características principais
+
+* 🔹 Baixo nível – próximo ao código binário que o processador entende.
