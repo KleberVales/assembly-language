@@ -8,3 +8,4 @@ Cada instrução em Assembly corresponde quase diretamente a uma instrução do 
 ## ⚙️ Características principais
 
 * 🔹 Baixo nível – próximo ao código binário que o processador entende.
+* 🔹 Arquitetura dependente – cada processador (Intel, ARM, etc.) possui seu próprio conjunto de instruções.
