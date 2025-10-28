@@ -9,3 +9,4 @@ Cada instrução em Assembly corresponde quase diretamente a uma instrução do 
 
 * 🔹 Baixo nível – próximo ao código binário que o processador entende.
 * 🔹 Arquitetura dependente – cada processador (Intel, ARM, etc.) possui seu próprio conjunto de instruções.
+* 🔹 Controle total do hardware – acesso direto a registradores, memória e dispositivos.
