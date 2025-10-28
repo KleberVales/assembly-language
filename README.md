@@ -58,4 +58,6 @@ Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 |MASM	|(Microsoft Assembler) – Usado principalmente em Windows.|
 |GAS	|(GNU Assembler) – Usado com o compilador GCC.|
 
+## 🧪 Compilando e executando (NASM no Linux)
+
 
