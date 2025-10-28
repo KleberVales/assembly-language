@@ -60,4 +60,10 @@ Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 
 ## 🧪 Compilando e executando (NASM no Linux)
 
+```bash
+nasm -f elf64 hello.asm -o hello.o
+ld hello.o -o hello
+./hello
+```
+
 
