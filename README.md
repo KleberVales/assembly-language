@@ -41,4 +41,6 @@ _start:
 
 Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 
+## 🧮 Conceitos importantes
+
 
