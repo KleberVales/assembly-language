@@ -13,3 +13,5 @@ Cada instrução em Assembly corresponde quase diretamente a uma instrução do 
 * 🔹 Altíssimo desempenho, mas difícil de escrever e manter.
 
 ## 🧩 Estrutura básica de um programa Assembly
+
+Um código Assembly é geralmente dividido em seções:
