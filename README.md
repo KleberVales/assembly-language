@@ -15,3 +15,26 @@ Cada instrução em Assembly corresponde quase diretamente a uma instrução do 
 ## 🧩 Estrutura básica de um programa Assembly
 
 Um código Assembly é geralmente dividido em seções:
+
+```asm
+section .data       ; Dados estáticos (variáveis iniciais)
+    msg db "Olá, mundo!", 0Ah
+
+section .bss        ; Dados não inicializados
+    num resb 1
+
+section .text       ; Código executável
+    global _start
+
+_start:
+    mov eax, 4          ; syscall: write
+    mov ebx, 1          ; saída padrão
+    mov ecx, msg        ; mensagem
+    mov edx, 13         ; tamanho
+    int 0x80            ; chamada de sistema
+
+    mov eax, 1          ; syscall: exit
+    mov ebx, 0          ; código de saída
+    int 0x80
+
+```
