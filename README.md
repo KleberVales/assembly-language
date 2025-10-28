@@ -38,3 +38,7 @@ _start:
     int 0x80
 
 ```
+
+Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
+
+
