@@ -43,4 +43,11 @@ Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 
 ## 🧮 Conceitos importantes
 
+| Conceito | Descriçãon |
+|----------|------------|
+| Registradores |	Pequenas áreas de armazenamento dentro da CPU (ex: eax, ebx, ecx). |
+|Instruções|	Comandos básicos que a CPU executa (ex: mov, add, sub).|
+|Syscalls|	Chamadas de sistema usadas para interagir com o SO (ex: imprimir texto, sair do programa).|
+|Labels|	Marcadores usados para identificar locais no código (semelhantes a funções).|
+
 
