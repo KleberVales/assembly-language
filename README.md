@@ -50,4 +50,6 @@ Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 |Syscalls|	Chamadas de sistema usadas para interagir com o SO (ex: imprimir texto, sair do programa).|
 |Labels|	Marcadores usados para identificar locais no código (semelhantes a funções).|
 
+## 🧰 Montadores populares
+
 
