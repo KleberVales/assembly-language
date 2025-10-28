@@ -52,4 +52,10 @@ Esse exemplo imprime “Olá, mundo!” no terminal Linux usando Assembly x86.
 
 ## 🧰 Montadores populares
 
+|Montador|	Descrição|
+|--------|-----------|
+|NASM	|(Netwide Assembler) – Muito usado em Linux e Windows.|
+|MASM	|(Microsoft Assembler) – Usado principalmente em Windows.|
+|GAS	|(GNU Assembler) – Usado com o compilador GCC.|
+
 
